@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 50: end of line expected.
+    centered "Matusalén: Mariposa Sagrada." what_color = ("#FFFFFF")
+                                            ^
+
+Ren'Py Version: Ren'Py 7.4.9.2142
+Thu May 19 17:51:58 2022
