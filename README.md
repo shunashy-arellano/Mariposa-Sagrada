@@ -6,35 +6,35 @@ El propósito de este proyecto para el Trabajo Terminal, es que los usuarios pue
 
 ## Capturas de pantalla:
 ### Pantalla y menú principal:
-![Pantalla y menú principal](readme/Pantalla de la aplicación 1.JPG)
+![Pantalla y menú principal](readme/1.JPG)
 
 ### Registro del género de la mariposa:
-![Registro del género de la mariposa](readme/Pantalla de la aplicación 2.JPG)
+![Registro del género de la mariposa](readme/2.JPG)
 
 ### Mensajes informativos:
-![Mensajes informativos](readme/Pantalla de la aplicación 3.JPG)
+![Mensajes informativos](readme/3.JPG)
 
 ### Registro de nombre de usuario:
-![Registro de nombre de usuario](readme/Pantalla de la aplicación 4.JPG)
+![Registro de nombre de usuario](readme/4.JPG)
 
 ### Instrucciones de jugabilidad:
-![Instrucciones de jugabilidad](readme/Pantalla de la aplicación 5.JPG)
+![Instrucciones de jugabilidad](readme/5.JPG)
 
 ### Capítulo 1 de la historieta *"El Algodoncillo"*:
-![Cap1](readme/Pantalla de la aplicación 6.JPG)
+![Cap1](readme/6.JPG)
 
 ### Ítems y mensajes de notificación:
-![Items](readme/Pantalla de la aplicación 7.JPG)
+![Items](readme/7.JPG)
 
 ### Final de capítulo:
-![FinalCapitulo](readme/Pantalla de la aplicación 8.JPG)
+![FinalCapitulo](readme/8.JPG)
 
 ### Final bueno:
-![FinalBueno](readme/Pantalla de la aplicación 9.JPG)
+![FinalBueno](readme/9.JPG)
 
 ### Estadísticas:
-![Estadisiticas1](readme/Pantalla de la aplicación 10.JPG)
-![Estadisiticas2](readme/Pantalla de la aplicación 11.JPG)
+![Estadisiticas1](readme/10.JPG)
+![Estadisiticas2](readme/11.JPG)
 
 
 ## Tecnologías
