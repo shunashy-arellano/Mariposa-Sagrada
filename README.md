@@ -39,6 +39,10 @@ El propósito de este proyecto para el Trabajo Terminal, es que los usuarios pue
 
 ## Tecnologías
 - Python
-- Ren'py
+- Ren'Py
 - OpenToonz
 - Paint Tool SAI
+
+## Ver artículo
+Lee más sobre nuestro trabajo en la Gaceta Politécnica...
+[Mariposa Sagrada](https://www.ipn.mx/assets/files/ccs/docs/gaceta-seleccion/2023/06/g-162-m.pdf)
